@@ -6,7 +6,6 @@ export default ngModule => {
 
     controller: function KcdHelloController() {
       this.user = "Anthony";
-      console.log(styles);
       this.styles = styles;
     }
   });
