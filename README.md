@@ -10,4 +10,7 @@ npm start
 # Start webpack-dev-server
 
 # Go to localhost:8080/webpack-dev-server
+
+npm run sb
+# Runs storybook on localhost:3000
 ```
